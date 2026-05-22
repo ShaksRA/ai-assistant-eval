@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Model cache (large files)
+.cache/
+~/.cache/huggingface/
+
+# Evaluation results (can be regenerated)
+evaluation/results/*.json
+evaluation/results/*.csv
+
+# API keys
+*.key
+secrets.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
