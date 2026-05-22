@@ -21,6 +21,13 @@
 
 ---
 
+## Demo Screenshots
+<img width="1007" height="960" alt="image" src="https://github.com/user-attachments/assets/cb0e147e-f294-46f3-99c8-569c58ebf885" />
+
+<img width="1190" height="958" alt="image" src="https://github.com/user-attachments/assets/ff5f0bfb-b417-46a6-ae20-1d62c3b7573a" />
+
+---
+
 ## Project Overview
 
 Two feature-identical personal assistants built and evaluated side-by-side:
